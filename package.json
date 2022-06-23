@@ -1,0 +1,17 @@
+{
+  "name": "string_prog1",
+  "version": "1.0.0",
+  "description": "june 22 2022",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "text",
+    "user",
+    "input"
+  ],
+  "author": "jarett young",
+  "license": "ISC"
+}
